@@ -1,0 +1,47 @@
+{
+    "albums": [
+        {
+            "id": "b598df76-de75-44f2-860f-cf9ed74bff35",
+            "name": "Stoney",
+            "img": "https://upload.wikimedia.org/wikipedia/en/7/72/Stoneyalbum.jpg",
+            "description": "Stoney is the debut studio album by American singer Post Malone. It was released on December 9th, 2016, by Republic Records. The album features guest appearances from Justin Bieber, Kehlani, and Quavo. The deluxe edition was released on the same day.",
+            "link": "https://genius.com/albums/Post-malone/Stoney-deluxe"
+        },
+        {
+            "id": "a4a40c48-d2c6-42d2-8178-dc642e767954",
+            "name": "Beerbongs & Bentleys",
+            "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png",
+            "description": "Beerbongs & Bentleys is the second studio album by American singer Post Malone, released by Republic Records on April 27, 2018. The album features guest appearances from Swae Lee, 21 Savage, Ty Dolla Sign, Nicki Minaj, G-Eazy, and YG.",
+            "link": "https://genius.com/albums/Post-malone/Beerbongs-bentleys"
+        },
+        {
+            "id": "80ef2f6d-9afe-4ed6-b0fd-c0510bbedff2",
+            "name": "Hollywood's Bleeding",
+            "img": "https://upload.wikimedia.org/wikipedia/en/5/58/Post_Malone_-_Hollywood%27s_Bleeding.png",
+            "description": "Hollywood's Bleeding is the third studio album by American singer Post Malone. It was released on September 6, 2019, by Republic Records. The album features guest appearances from DaBaby, Future, Halsey, Meek Mill, Lil Baby, Ozzy Osbourne, Travis Scott, SZA, Swae Lee, and Young Thug. The production was handled mainly by Louis Bell, with contributions by Andrew Watt, BloodPop, Brian Lee, Carter Lang, DJ Dahi, Emile Haynie, Frank Dukes, and Malone himself, among others.",
+            "link": "https://genius.com/albums/Post-malone/Hollywoods-bleeding"
+        },
+        {
+            "id": "de1d26b6-1de9-47b3-8735-a65aa8e13176",
+            "name": "Twelve Carat Toothache",
+            "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Post_Malone_-_Twelve_Carat_Toothache.png",
+            "description": "Twelve Carat Toothache is the fourth studio album by American singer Post Malone. It was released on June 3, 2022, by Mercury and Republic Records. The album contains 14 tracks and includes guest appearances from Roddy Ricch, Doja Cat, Gunna, Fleet Foxes, the Kid Laroi, and the Weeknd. The deluxe edition was later released on June 7, 2022, including two new tracks, 'Waiting For Never' and 'Hateful'.",
+            "link": "https://genius.com/albums/Post-malone/Twelve-carat-toothache"
+        },
+        {
+            "id": "b9ae79ac-9f27-423c-9af5-e13c27d48428",
+            "name": "Austin",
+            "img": "https://upload.wikimedia.org/wikipedia/en/f/fe/Post_Malone_-_Austin.png",
+            "description": "Austin is the fifth studio album by American singer Post Malone. It was released through Mercury and Republic Records on July 28, 2023. The bonus version of the album was released five days later to include a new track. Production was handled by Malone himself, Andrew Watt, Louis Bell, Max Martin, and Rami Yacoub. Austin was supported by four singles: 'Chemical', 'Mourning', 'Overdrive', and 'Enough Is Enough'.",
+            "link": "https://genius.com/albums/Post-malone/Austin"
+        },
+        {
+            "id": "044ce514-45d9-4b1d-94ae-4694daba74a5",
+            "name": "F-1 Trillion",
+            "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Post_Malone_-_F-1_Trillion.png",
+            "description": "F-1 Trillion is the sixth studio album by American singer Post Malone. It was released through Mercury and Republic Records on August 16, 2024.",
+            "link": "https://genius.com/albums/Post-malone/F-1-trillion"
+        }
+    ]
+
+}
